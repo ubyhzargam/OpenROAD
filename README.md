@@ -3,6 +3,12 @@
 # Design
 The complete layout looks like this - <br>
 ![layout](https://github.com/user-attachments/assets/e00f6732-d60c-49fd-b69d-b7a59cfa2172) <br><br>
+Let us view only the standard cells taken from the library by zooming in - <br>
+![Screenshot 2024-11-27 at 10 06 04 PM](https://github.com/user-attachments/assets/f90ac274-eb03-40d8-add9-b01492132f46)<br><br>
+Let us zoom in further and try to see the transistor level view of each standard cell - <br>
+![Screenshot 2024-11-27 at 10 06 35 PM](https://github.com/user-attachments/assets/5862d641-2b67-46a7-80ef-9a0f5b549efd)<br><br>
+Now, let us see how the standard cells are connected to the nets by enabling view of nets (signal, power and clock) - <br>
+<img width="1469" alt="Screenshot 2024-11-27 at 10 08 08 PM" src="https://github.com/user-attachments/assets/3ff014d0-bda2-4c2c-9678-5467a5f92405"><br><br>
 Let us just view the layers, nets and routing <br>
 <img width="1469" alt="Screenshot 2024-11-27 at 2 10 15 AM" src="https://github.com/user-attachments/assets/16f41c08-cd3e-4dc8-b682-1c05c5a48c3a"> <br><br>
 These are the rows used to place the standard cells - <br>
